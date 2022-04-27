@@ -1,0 +1,2 @@
+https://teachablemachine.withgoogle.com/models/wAdA571zR/
+https://storage.googleapis.com/tm-model/wAdA571zR/model.json
